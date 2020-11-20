@@ -2,6 +2,10 @@
 
 Creates secret to GCP secret manager.
 
+## Requirement
+
+- https://github.com/GoogleCloudPlatform/berglas
+
 ## Usage
 
 ```
